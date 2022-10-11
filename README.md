@@ -1,6 +1,6 @@
 # Tour Places Project
 ### Project Outcome
- ![project skeleton](./src/assets/tour-project.gif)
+ ![project](./src/assets/tour-project.gif)
 
 
 ### Description
