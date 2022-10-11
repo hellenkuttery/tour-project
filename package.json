@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage":"https://hellenkuttery.github.io/tour-project/",
+    "homepage":"https://hellenkuttery.github.io/tourProject",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
