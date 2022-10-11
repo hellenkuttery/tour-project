@@ -1,9 +1,14 @@
 import "./App.scss"
+import Navbar from "./component/navbar/Navbar"
+import Header from "./component/header/Header"
 
 function App() {
   return (
-    <div>
-      <p>Tour Places</p>
+    <div>    
+      
+      <Navbar/>
+      <Header/>
+      
     </div>
   );
 }
